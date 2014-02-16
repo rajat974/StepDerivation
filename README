@@ -1,0 +1,13 @@
+Derivative.py contains the two functions:
+
+1.  __new__ from Derivative class, which is modified to store the expr in array 'derarr' and after recursion,
+    STEP is printed.
+
+2.  _eval_derivative from Mul.py
+    which modifies the mul operation for this case.
+    
+
+This is just a prototype, this is to be reformed more for the all cases of derivation. This is just the start.
+Attached are the images of the result of some derivatives.
+
+    
